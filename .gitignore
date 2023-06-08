@@ -1,0 +1,6 @@
+/dxf/
+/md_ex-backups/
+/mdu_gerbers/
+/fp-info-cache/
+*.zip
+*.step
